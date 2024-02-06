@@ -27,5 +27,5 @@ int main() {
     printf("%.2f\n", sum/n);
 
     return 0;
-
+ 
 }

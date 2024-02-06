@@ -18,7 +18,7 @@ int main() {
         }
         if (anggka > max) {
             max = anggka;
-        }
+        } 
     }
     printf("%d\n", min);
     printf("%d\n", max);
